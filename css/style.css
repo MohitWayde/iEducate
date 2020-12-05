@@ -268,3 +268,14 @@ html{
         padding: 0;
     }
 }
+
+@media only screen and (max-width :290px){
+    .secondHalf{
+        display: none;
+    }
+    .firstHalf{
+        margin: 100px 0 0 0 ;
+    }
+    
+
+}
